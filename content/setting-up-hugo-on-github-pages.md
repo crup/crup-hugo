@@ -3,7 +3,7 @@ title: "Setting Up Hugo on GitHub Pages"
 date: 2018-06-05T22:39:12+05:30
 draft: false
 slug: ""
-tags: []
+tags: ["Hugo"]
 categories: []
 type: "post"
 ---
@@ -18,9 +18,7 @@ Because, it's free. [GitHub Pages](https://pages.github.com/)  allows you to hos
 - Travis CI
 
 ### Setup Repositories
-Create two repositories `username.github.io` and `awesome-hugo-project`. Whatever floats your boat!
-
-In this tutorial, I will be demonstrating two repository setup.
+Create two repositories, `username.github.io` for website and `awesome-hugo-project` for Hugo source. Repository name for Hugo source can be anything. Whatever floats your boat!
 
 ### Install Hugo
 ```brew install hugo```
