@@ -1,5 +1,5 @@
 ---
-title: "Deploy Hugo on Github Pages With Travis Ci"
+title: "Deploy Hugo on Github Pages With Travis CI"
 date: 2018-06-07T15:54:58+05:30
 draft: false
 slug: ""
