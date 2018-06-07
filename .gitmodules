@@ -1,0 +1,3 @@
+[submodule "themes/slim-coder"]
+	path = themes/slim-coder
+	url = https://github.com/crup/slim-coder.git
