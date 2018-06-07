@@ -14,7 +14,7 @@ before_script:
   - git clone "https://github.com/${WEBSITE_REPO}" ${WEBSITE_FOLDER}
 script:
   - cd ${SOURCE_FOLDER}
-  - hugo -d ${WEBSITE_FOLDER}
+  - hugo -d ${WEBSITE_FOLDER} --cleanDestinationDir
 after_success:
   - cd ${WEBSITE_FOLDER}
   - cp ${SOURCE_FOLDER}/README.md && cp ${SOURCE_FOLDER}/CNAME

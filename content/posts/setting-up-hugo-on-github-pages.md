@@ -1,6 +1,6 @@
 ---
 title: "Setting Up Hugo on GitHub Pages"
-date: 2018-06-05T22:39:12+05:30
+date: 2018-06-04T22:39:12+05:30
 draft: false
 slug: ""
 tags: ["Hugo"]
