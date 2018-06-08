@@ -3,7 +3,7 @@ title: "Deploy Hugo on Github Pages With Travis CI"
 date: 2018-06-07T15:54:58+05:30
 draft: false
 slug: ""
-tags: ["Hugo", "Travis", "Continuous Integration"]
+tags: ["Hugo", "Travis CI", "Continuous Integration"]
 categories: []
 type: "post"
 ---
