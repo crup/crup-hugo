@@ -1,0 +1,12 @@
+User-agent: *
+
+User-agent: Googlebot-Image
+Allow: /images/
+
+User-agent: Adsbot-Google
+Allow: /
+ 
+User-agent: Googlebot-Mobile
+Allow: /
+
+Sitemap: {{ .Site.BaseURL }}sitemap.xml
