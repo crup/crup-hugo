@@ -4,3 +4,4 @@ languageCode = "en-us"
 title = "2km"
 theme = "slim-coder"
 enableEmoji = true
+enableRobotsTXT = true
