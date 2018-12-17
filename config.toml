@@ -1,7 +1,7 @@
 
-baseURL = "https://2km.co/"
+baseURL = "https://sonu.tv/"
 languageCode = "en-us"
-title = "2km"
+title = "Sonu Joshi"
 theme = "slim-coder"
 enableEmoji = true
 enableRobotsTXT = true
